@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: ItemDurability
+## Notes: Show equiped items durability to player.
+## Version: 0.1
+## Author: KygoBeast
+
+
+ItemDurability1.lua
